@@ -123,6 +123,9 @@ header .links .icon span {
   margin-bottom: 4px;
   height: 2px;
 }
+header .links .icon span:hover {
+  background-color : var(--main-color);
+}
 header .links .icon span:first-child {
   width: 100%;
 }
